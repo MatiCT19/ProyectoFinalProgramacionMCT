@@ -19,7 +19,7 @@ if opcion == 1:
 elif opcion == 2:
     eligeUsuario = "papel"
 elif opcion == 3:
-    elijeUsuario = "tijera"
+    eligeUsuario = "tijera"
 print("Tu eliges: ", eligeUsuario)
 
 if aleatorio == 0:
